@@ -1,4 +1,3 @@
-# lewandowski.snopek
 <!DOCTYPE html>
 <html lang="pl">
 <head>
